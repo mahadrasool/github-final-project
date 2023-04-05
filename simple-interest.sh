@@ -6,7 +6,7 @@
 
    # Author: Muhammad Mahad Rasool
    # Additional Authors:
-   # Upkar Lidder (IBM)
+   # mahadrasool
 
    # Input:
    # p, principal amount
